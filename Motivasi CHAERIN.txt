@@ -1,2 +1,2 @@
 Motivasi CHAERIN
-Motivasi saya mengikuti bootcamp Laravel ini adalah karena saya ingin mempelajari lebih tentang pemrograman.Dengan ini saya lebih banyak mengetahui yang sebelumnya belum saya ketahui.Harapan saya setelah mengikuti bootcamp larvael ini saya lebih paham dengan materi yang telah di berikan dan saya berharap ilmu yang saya dapatkan ini dapat bermanfaat untuk kedepannya.
+Motivasi saya mengikuti bootcamp Laravel ini adalah karena saya ingin mempelajari lebih tentang pemrograman.Dengan ini saya lebih banyak mengetahui yang sebelumnya belum saya ketahui.Harapan saya setelah mengikuti bootcamp laravel ini saya lebih paham dengan materi yang telah di berikan dan saya berharap ilmu yang saya dapatkan ini dapat bermanfaat untuk kedepannya.
